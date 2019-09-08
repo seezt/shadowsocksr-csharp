@@ -1,4 +1,4 @@
-ShadowsocksR for Windows
+ShadowsocksR for Windows 备份
 =======================
 
 [![Build Status]][Appveyor]    <b> <=== \[click this to download nightly version\] </b>
